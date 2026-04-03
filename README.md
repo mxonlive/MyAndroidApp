@@ -12,3 +12,4 @@
 - Java + AndroidX
 - GitHub Actions CI/CD ready
 # MyAndroidApp
+-------------- 1.10.1
